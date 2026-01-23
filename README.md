@@ -10,9 +10,9 @@ Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly Express
 Environment: Google Colab
 📊 Visual Insights
-1. Hierarchical Unemployement Rate Breakdown :- <img width="997" height="525" alt="image" src="https://github.com/user-attachments/assets/7e66151f-347d-4272-a070-cb6f0ed292e8" />
+1. Unemployement vs Labour Participation :- <img width="997" height="525" alt="image" src="https://github.com/user-attachments/assets/7e66151f-347d-4272-a070-cb6f0ed292e8" />
 
-2. Unemployement vs Labour Participation :-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/41e95ca1-59e7-41f0-a2fd-1ceaccefb967" />
+2. Hierarchical Unemployement Rate Breakdown :-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/41e95ca1-59e7-41f0-a2fd-1ceaccefb967" />
 1. Regional Impact
 I used Seaborn Bar Plots to identify states with the highest spikes in unemployment. The data clearly captures the volatility in the labour market during mid-2020.
 2. Economic Indicators Heatmap
