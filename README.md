@@ -10,6 +10,9 @@ Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly Express
 Environment: Google Colab
 📊 Visual Insights
+(https://github.com/user-attachments/assets/e5bb0bff-2880-4b17-a760-7199bb593087)
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/41e95ca1-59e7-41f0-a2fd-1ceaccefb967" />
+
 1. Regional Impact
 I used Seaborn Bar Plots to identify states with the highest spikes in unemployment. The data clearly captures the volatility in the labour market during mid-2020.
 2. Economic Indicators Heatmap
