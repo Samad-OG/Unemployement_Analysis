@@ -10,12 +10,15 @@ Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly Express
 Environment: Google Colab
 📊 Visual Insights
-(https://github.com/user-attachments/assets/e5bb0bff-2880-4b17-a760-7199bb593087)
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/41e95ca1-59e7-41f0-a2fd-1ceaccefb967" />
+1. Hierarchical Unemployement Rate Breakdown :- <img width="997" height="525" alt="image" src="https://github.com/user-attachments/assets/7e66151f-347d-4272-a070-cb6f0ed292e8" />
 
+2. Unemployement vs Labour Participation :-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/41e95ca1-59e7-41f0-a2fd-1ceaccefb967" />
 1. Regional Impact
 I used Seaborn Bar Plots to identify states with the highest spikes in unemployment. The data clearly captures the volatility in the labour market during mid-2020.
 2. Economic Indicators Heatmap
 By analyzing the correlation between the Labour Participation Rate and Estimated Employed, I mapped out how the workforce shrunk during economic lockdowns.
 3. Hierarchical Breakdown
 The Plotly Sunburst Chart provides an interactive way to navigate through India's geographical unemployment distribution, making the data accessible for non-technical stakeholders.
+Conclusion :-
+💡 Impact of Analysis
+By identifying the states with the highest unemployment spikes and analyzing the labor participation rate, this project provides a clear picture of India's economic resilience during the 2020 crisis. It serves as a data-driven tool for understanding regional workforce dynamics.
